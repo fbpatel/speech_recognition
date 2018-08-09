@@ -487,6 +487,7 @@ kevinismith <kevin_i_smith@yahoo.com> (Kevin Smith)
 haas85
 DelightRun <changxu.mail@gmail.com>
 maverickagm
+fbpatel <fadadubhavin23@gmail.com> (Bhavin Patel).
 
 Please report bugs and suggestions at the issue tracker!
 License
